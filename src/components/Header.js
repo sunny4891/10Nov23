@@ -6,6 +6,7 @@ export default function Header() {
     <header>
       <Link href={"/about"}>About</Link>
       <Link href={"/contact"}>Contact</Link>
+      <Link href={"/Bhopal/resturent-collection"}>Resturent Collection</Link>
     </header>
   );
 }
