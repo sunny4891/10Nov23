@@ -8,6 +8,9 @@ header {
   margin: auto;
   margin-bottom: 15px;
 }
+a {
+  margin-right: 20px;
+}
 main {
   height: 1000px;
   width: 980px;
