@@ -4,6 +4,7 @@ import React from "react";
 export default function Header() {
   return (
     <header>
+      <Link href={"/"}>Home</Link>
       <Link href={"/about"}>About</Link>
       <Link href={"/contact"}>Contact</Link>
       <Link href={"/Bhopal/resturent-collection"}>Resturent Collection</Link>
